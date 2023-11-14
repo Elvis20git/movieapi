@@ -65,7 +65,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>docker-spring-boot.jar</finalName>
+		<finalName>docker-spring-boot</finalName>
 	</build>
 
 </project>
